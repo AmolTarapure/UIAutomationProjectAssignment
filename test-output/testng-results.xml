@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UIAutomationProject" duration-ms="14402" started-at="2019-01-31T07:28:32Z" finished-at="2019-01-31T07:28:47Z">
+    <groups>
+    </groups>
+    <test name="New User Screen" duration-ms="14402" started-at="2019-01-31T07:28:32Z" finished-at="2019-01-31T07:28:47Z">
+      <class name="com.assignment.testcases.newCustomerScreen">
+        <test-method status="PASS" signature="initializeConfigData()[pri:0, instance:com.assignment.testcases.newCustomerScreen@6f7fd0e6]" name="initializeConfigData" is-config="true" duration-ms="4217" started-at="2019-01-31T07:28:32Z" finished-at="2019-01-31T07:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeConfigData -->
+        <test-method status="PASS" signature="verifyNewCustomerScreen()[pri:1, instance:com.assignment.testcases.newCustomerScreen@6f7fd0e6]" name="verifyNewCustomerScreen" duration-ms="6893" started-at="2019-01-31T07:28:36Z" finished-at="2019-01-31T07:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewCustomerScreen -->
+        <test-method status="PASS" signature="verifyCustomerFilters()[pri:2, instance:com.assignment.testcases.newCustomerScreen@6f7fd0e6]" name="verifyCustomerFilters" duration-ms="2991" started-at="2019-01-31T07:28:43Z" finished-at="2019-01-31T07:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerFilters -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.assignment.testcases.newCustomerScreen@6f7fd0e6]" name="closeBrowser" is-config="true" duration-ms="282" started-at="2019-01-31T07:28:46Z" finished-at="2019-01-31T07:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.assignment.testcases.newCustomerScreen -->
+    </test> <!-- New User Screen -->
+  </suite> <!-- UIAutomationProject -->
+</testng-results>
